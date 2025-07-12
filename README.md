@@ -1,8 +1,5 @@
 # Sign-Language-Detection-System
 
-
-# Sign Language Detection System
-
 This project is a computer vision-based system for real-time detection and classification of hand gestures representing sign language words. It uses a trained deep learning model to recognize several common sign language gestures and display their meaning.
 
 ## Features
