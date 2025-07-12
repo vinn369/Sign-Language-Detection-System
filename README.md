@@ -66,15 +66,3 @@ python test.py
 
 - Collect images for new gestures using `datacollection.py`.
 - Retrain the model and update `labels.txt` to include new gesture labels.
-
-## License
-
-[Specify your license here]
-
-## Author
-
-- [vinn369](https://github.com/vinn369)
-
-## Acknowledgements
-
-- [cvzone](https://github.com/cvzone/cvzone) for hand detection and classification utilities.
